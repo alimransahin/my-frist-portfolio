@@ -1,0 +1,17 @@
+body{
+    font-family: 'Righteous', cursive;
+}
+.heading{
+    font-size: 45px;
+}
+.name{
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin: 2%;
+}
+.half-width img{
+    width: 100%;
+}
